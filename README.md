@@ -118,11 +118,3 @@ Employee-Salary-Prediction/
 
 ---
 
-## Future Improvements
-
-- Hyperparameter tuning
-- XGBoost Regressor
-- Model deployment using Streamlit
-- REST API deployment
-
----
