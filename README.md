@@ -104,17 +104,3 @@ This feature represents the average years of experience per skill.
 
 ---
 
-## Repository Structure
-
-```
-Employee-Salary-Prediction/
-│
-├── Employee_Salary_prediction.ipynb
-├── employee_salary_prediction_model.pkl
-├── scaler.pkl
-├── job_salary_prediction_dataset.csv
-└── README.md
-```
-
----
-
